@@ -1,0 +1,29 @@
+# Python files
+__pycache__/
+*.py[cod]
+
+# C/C++
+*.o
+*.d
+*.lst
+*.map
+*.hex
+*.elf
+*.eep
+*.lss
+*.sym
+*.out
+
+# cscope files
+cscope.*
+
+# Log files
+*.log
+
+# AVR Studio
+*.atsuo
+
+# Misc
+*.swp
+*.swo
+*~
