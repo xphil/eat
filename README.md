@@ -19,8 +19,8 @@ entropy is pretty low.
 # Usage
 
 Before running this tool, you need to have **gzip** and **bzip2** archivers
-installed on your system (usually those are installed on most Linux distibutions
-and most Unix'es)
+installed on your system (usually those two are installed on most Linux
+distibutions and most Unix'es)
 
 To see all available options, run:
 ```
@@ -28,7 +28,7 @@ $ ./eat.sh --help
 ```
 and to analyze some files, pass the script some file path(s):
 ```
-$ ./eat.sh some\_file.bin some\_other\_file.dat
-97% some\_file.bin
-23% some\_other\_file.dat
+$ ./eat.sh some_file.bin some_other_file.dat
+97% some_file.bin
+23% some_other_file.dat
 ```
